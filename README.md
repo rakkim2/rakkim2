@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ywr0823
-- 👀 I’m interested in ... sss
+- 👋 Hi, I’m @rakkim2
+- 👀 I’m interested in Cloud Infra Operation, Automation, Monitoring, Platform Dev, Devops, Opensource Dev
 - 🌱 I’m currently learning ... sss
 - 💞️ I’m looking to collaborate on ... sss 
 - 📫 How to reach me ... ywr0823@naver.com
